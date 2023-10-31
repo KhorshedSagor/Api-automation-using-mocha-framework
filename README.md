@@ -1,4 +1,5 @@
 # Comprehensive API CRUD Operations Test Suite using Mocha Framework
+![0_gV7fEaDKRGwpprdj](https://github.com/KhorshedSagor/Api-automation-using-mocha-framework/assets/134398536/26187cd4-e6bc-4e82-b03f-94bce72384eb)
 
 This test suite is a comprehensive solution for automating the testing of **CRUD** (Create, Read, Update, Delete) operations of an API. It utilizes the robust Mocha framework, the promise-based HTTP client Axios, and the Chai assertion library. The test scripts are written in JavaScript, providing a familiar and flexible environment for developers.
 
@@ -11,6 +12,9 @@ This test suite is a comprehensive solution for automating the testing of **CRUD
 **Chai** is a popular assertion library that pairs exceptionally well with Mocha. It allows developers to use natural language constructs when writing tests, making the tests easier to write and read.
 
 **CRUD operations** are the backbone of most data-driven applications. They are essential for manipulating resources in an API, and thus, thorough testing of these operations is crucial for the reliability of the application.
+
+![1_pJRJgw1Vj-1MjhtQFZAZRA](https://github.com/KhorshedSagor/Api-automation-using-mocha-framework/assets/134398536/040bb2ad-3e54-4065-a543-bd72c8022f9b)
+
 
 
 ## Prerequisites
